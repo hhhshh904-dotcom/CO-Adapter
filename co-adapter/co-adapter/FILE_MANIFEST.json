@@ -1,0 +1,21 @@
+{
+  ".gitignore": "81498bab6330fb67f7b7d255ec1ce5e88141943a2b3d97a8600dfb6887e2ee14",
+  "LICENSE": "f65b6439ce5a667318e711bbf3d0c8e5e884542c579709175c302044fd2e820b",
+  "README.md": "3bba89ae268cc09542a783286d05ea8dcdf26645a9c27786c31ebccfb3780276",
+  "THIRD_PARTY_NOTICES.md": "d95f26d7faa0dd305ca0b8fa4dff45ad5be59a9c2cfcd411220e0e5ceb9fc1f2",
+  "docs/REPRODUCIBILITY.md": "d05d24eae4a2ce4e43859ec95f42f0dca4e172d3a187fb2ccede8035de9ee389",
+  "pyproject.toml": "791b6c7b8357bed4a1d30f86db2eb14f2009c7ae160a99519275f0db23b41825",
+  "requirements.txt": "008d79c5d9af29269ed1a9c8f22060263d2215d7f911163c90a2c6e63d11e0ac",
+  "src/co_adapter/__init__.py": "857d1cf50838976f2c0181138df3084294fcaeefc044774a4fac79a5a3d523bc",
+  "src/co_adapter/__main__.py": "935a1c1166b0c1ea35a82256345000bf2c73ded718d77773bc27a71ecce28f7d",
+  "src/co_adapter/adapter.py": "6dd3229391f1e1d784be8d11b390378bd9a34529d1eab4a3d7fbbc010387181a",
+  "src/co_adapter/cli.py": "2e4476e8ab060c80170e75963c2295b73bfb6ca6fffa1d195222f95e1bea58f8",
+  "src/co_adapter/engine.py": "51e64b32be845b7ed961fb7be194731a87caa352fb6db8c4e92ae892f5056bef",
+  "src/co_adapter/provenance.py": "adbc898052b94f9d6bbbde0cba6020d9f417461bf31386f7d3632e517e3394c9",
+  "src/co_adapter/state.py": "ea34cf7335d4cf90f8c3478627f9e91ca2c456b6ce87847fe94cecf059562b5b",
+  "src/co_adapter/upstream.py": "0cd22417a2baf714eedac3d4eb6266118ec118a73ed4c7922c4d139d22abf341",
+  "tests/fixtures.py": "65aa9c2311d8de51d2d5e94c994736077b7cdfbc2f8092bac269f8aa7c172e52",
+  "tests/test_core.py": "6ba602f6b79b87d1b59ad57f1fc298b5a63885bdadd57761f791f042846f77ef",
+  "tests/test_upstream.py": "9e36430872515dc7b3da65ccc572bef8991fd79f51b5bd2ec0fd253e5dc972be",
+  "train.py": "4c9e39c6b64248b887830d35657169eb2cd76a9463761e64f150fc0744440a63"
+}

@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "co-adapter"
+version = "0.1.0"
+description = "CO-Adapter: Reading Each Modality First"
+requires-python = ">=3.11,<3.12"
+dynamic = ["dependencies"]
+
+[project.scripts]
+co-adapter = "co_adapter.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
